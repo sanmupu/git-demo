@@ -11,3 +11,4 @@ LLP!
 LLP!
 XT！
 XT!
+SSH push
